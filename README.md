@@ -48,7 +48,7 @@ background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
     <form style="text-align: center";>
     <div class="login-form">
  
-    <h1>Login - form</h1>
+    <h1>Login - form simple</h1>
  
     <form action="#"method="post">
     <p>Username</p>
